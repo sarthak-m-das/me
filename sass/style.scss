@@ -8,7 +8,7 @@ $grid-gutter-width: 40px !default;
 $border-radius-base:  4px !default;
 $padding-base-vertical: 14px !default;
 
-$brand-primary: #FF9000 !default;
+$brand-primary: #189ad3 !default;
 
 $brand-white: #fff;
 $brand-black: #000;
@@ -690,12 +690,12 @@ h1, h2, h3, h4, h5, h6, figure {
 .progress{
 	width: 100%;
 	float: left;
-	height: 5px;
+	height: 10px;
 	box-shadow: none;
 }
 .progress-bar{
 	background-color: $brand-bg-dark;
-	height: 5px;
+	height: 10px;
 	display: block;
 	box-shadow: none;
 	&.progress-bar-1{
